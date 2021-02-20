@@ -7,7 +7,7 @@ autosize: true
 Coursera Reproducible Pitch
 ========================================================
 
-This is final task of the Developing Data Products Week 4 Course. For this Task i have created a shiny app and deployed it on the shiny server. You can access the app via <https://mherdt1992.shinyapps.io/developingdataproductsweek4/>. And the source code can be found on github as well <>.
+This is final task of the Developing Data Products Week 4 Course. For this Task i have created a shiny app and deployed it on the shiny server. You can access the app via <https://mherdt1992.shinyapps.io/developingdataproductsweek4/>. And the source code can be found on github as well <https://github.com/manher1992/Developing-Data-Products-Week-4>.
 
 Overview
 ========================================================
